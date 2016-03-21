@@ -1,2 +1,5 @@
 # hello-world
-just a repository
+
+Hi there!
+
+My name is Rozaimel
